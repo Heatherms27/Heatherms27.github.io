@@ -7,8 +7,8 @@ order: 4
 
 ### The College of William and Mary  
 # *Teaching Assistant, August 2018 - Present*  
-Courses: Introduction to Data Science (Fall 2018) and Operating Systems (Spring 2019)
-* Ran weekly lab sessions for Intro to Data Science
+Courses: Introduction to Data Science (Fall 2018), Operating Systems (Spring 2019), Computational Problem Solving (Fall 2019)
+* Ran weekly lab sessions for Intro to Data Science and Computational Problem SOlving
 * Conducted weekly office hours to assist students
 * Assisted in the grading of student assignments and projects
 
@@ -18,7 +18,7 @@ Courses: Introduction to Data Science (Fall 2018) and Operating Systems (Spring 
 ### Lawrence Livermore National Laboratory
 # *Computing Summer Intern, May 2019 - August 2019*
 * Contributed to SIAM's Better Scientific Software blog
-* Intrigrated hierarchical probing in the MILC_QCD numerical library
+* Began intrigrating hierarchical probing in the MILC_QCD numerical library
 * Developed intorductory code for the Exascale Computing Project's continuous integration examples
 
 
